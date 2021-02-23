@@ -1,0 +1,69 @@
+html {
+	font-family: 'Times New Roman', serif;
+	background: WhiteSmoke;
+}
+
+.tri-home h1, h2 {
+	text-align: center;
+	line-height: 15px;
+}
+
+/*https://www.w3schools.com/css/css_navbar_horizontal.asp*/
+.tri-nav {
+	display: block;
+	background-color: #AAAAAA;
+}
+
+.tri-nav ul {
+	list-style-type: none;
+  	margin: 0;
+  	padding: 10px;
+  	text-align: center;
+}
+
+.tri-nav li {
+	display: inline;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.tri-nav a {
+	text-decoration: none;
+	color: black;
+	font-size: 17px;
+}
+
+/*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_fixed2*/
+.tri-sidebar {
+	position: fixed;
+	right: 100px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.main {
+	margin-right: 250px;
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+.main h2, h3, h4 {
+	text-align: left;
+}
+
+.main hr {
+	width: 90%;
+	margin: 0px;
+}
+
+.main h3, h4 {
+	margin-bottom: -10px;
+}
+
+.main footer {
+	text-align: center;
+}
+
+.main h4 {
+	text-indent: 1em;
+}
