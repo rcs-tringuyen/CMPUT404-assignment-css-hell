@@ -1,0 +1,47 @@
+body {
+	background: url('images/background.png');
+}
+
+html {
+	font-family: 'Times New Roman', serif;
+	font-size: medium;
+}
+
+pre {
+	text-align: left;
+	margin-left: 5%
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;	
+}
+
+p {
+	text-align: justify;
+	margin-left: 3%;
+	margin-right: 3%;
+	text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    clear: both;
+}
+
+img {
+	border: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+	width: 90%;
+}
+
+table {
+	margin: 3% auto 3% auto;
+	border: 2px solid;
+	padding: 5%;
+}
+
+
+a:hover {color:red}
