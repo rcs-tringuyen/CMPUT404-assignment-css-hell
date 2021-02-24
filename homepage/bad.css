@@ -1,16 +1,27 @@
 html {
-	font-family: 'Times New Roman', serif;
-	background: #F5F5F5;
+	font-family: "Comic Sans", cursive;
+	background: #FFE4E1;
 }
 
-.tri-home h1, h2 {
+.tri-home {
+	background: orange;
+}
+
+.tri-home h1 {
+	color: red;
+	text-align: center;
+	line-height: 15px;
+}
+
+.tri-home h2 {
+	color: blue;
 	text-align: center;
 	line-height: 15px;
 }
 
 .tri-nav {
 	display: block;
-	background-color: #AAAAAA;
+	background-color: grey;
 }
 
 .tri-nav ul {
@@ -27,9 +38,11 @@ html {
 }
 
 .tri-nav a {
-	text-decoration: none;
-	color: black;
 	font-size: 17px;
+}
+
+.tri-body-container {
+	background: #9ACD32;
 }
 
 .tri-sidebar {
@@ -72,6 +85,7 @@ html {
 }
 
 img {
+	border: 5px solid red;
 	max-width: 100%;
 	width: 200px;
 }
