@@ -34,10 +34,10 @@ Contribution
 =================
 
 - Tri Nguyen
-- Styling <a>: https://www.w3schools.com/css/css_link.asp
-- Padding <ul>: https://stackoverflow.com/questions/30424248/does-ul-have-default-margin-or-padding
+- Styling `<a>`: https://www.w3schools.com/css/css_link.asp
+- Padding `<ul>`: https://stackoverflow.com/questions/30424248/does-ul-have-default-margin-or-padding
 - Background: https://i.pinimg.com/originals/d0/83/1d/d0831d1fdc4089ecdbfdd4b4c1106b2b.png
-- tag <img> infomation: https://www.w3schools.com/howto/howto_css_full_page.asp
+- Tag `<img>` infomation: https://www.w3schools.com/howto/howto_css_full_page.asp
 - Idea on navbar design: https://www.w3schools.com/css/css_navbar_horizontal.asp
 - Idea on sidebar design: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_fixed2
 
